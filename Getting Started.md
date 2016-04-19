@@ -13,7 +13,7 @@ You can download the OpenShift CLI Client (oc) matching the current OpenShift of
 * [Mac OS X](https://master.appuio-beta.ch/console/extensions/clients/macosx/oc)
 * [Linux](https://master.appuio-beta.ch/console/extensions/clients/linux/oc)
  
-Copy the oc client on your machine into a direcotry on the defined *PATH*
+Copy the oc client on your machine into a directory on the defined *PATH*
 
 For example: ~/bin
 
